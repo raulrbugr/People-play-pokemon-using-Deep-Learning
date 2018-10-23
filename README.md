@@ -1,4 +1,4 @@
-# People play pokemon using Deep Learning
+# People plays Pokemon using Deep Learning
 
 This code detect and track people in the street using TensorFlow, Zoo CNN, Tensorflow object detecion API with GPU processing in a Nvidia Jetson TX1.
 
@@ -7,3 +7,4 @@ play Pokemon Fire Red in the Visual Boy Advance emulator.
 
 
 Video here:
+https://youtu.be/mYJ4cB07Qas
